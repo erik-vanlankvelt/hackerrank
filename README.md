@@ -20,3 +20,7 @@ Solutions to Hackerrank problems
 ### Repeated String - Algorithms
 - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem)
 - [Solution](https://www.hackerrank.com/rest/contests/master/challenges/repeated-string/hackers/evanlankvelt/download_solution)
+
+### Mark and Toys - Sorting
+- [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+- [Solution](https://www.hackerrank.com/rest/contests/master/challenges/mark-and-toys/hackers/evanlankvelt/download_solution)
