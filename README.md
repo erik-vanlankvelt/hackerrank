@@ -24,3 +24,7 @@ Solutions to Hackerrank problems
 ### Mark and Toys - Sorting
 - [Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)
 - [Solution](https://www.hackerrank.com/rest/contests/master/challenges/mark-and-toys/hackers/evanlankvelt/download_solution)
+
+### Making Anagrams - String Manipulation
+- [Problem](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)
+- [Solution](https://www.hackerrank.com/rest/contests/master/challenges/ctci-making-anagrams/hackers/evanlankvelt/download_solution)
